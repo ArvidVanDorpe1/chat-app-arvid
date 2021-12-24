@@ -1,0 +1,24 @@
+.chatHeader {
+  display: flex;
+  color: gray;
+  padding: 10px;
+  padding-left: 0;
+  padding-right: 0;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #2f3135;
+  width: 100%;
+}
+
+.peopleicon {
+  margin-right: 20px;
+}
+
+.peopleicon:hover {
+  color: white;
+  cursor: pointer;
+}
+
+.chatnaam {
+  margin-left: 20px;
+}
